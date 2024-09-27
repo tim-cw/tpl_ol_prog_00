@@ -1,10 +1,11 @@
 # DÉFI
-Coder la structure de la section ainsi que les 2 cartes à l'aide.
+Coder la structure de la section ainsi que celle des 2 cartes à l'aide de vs code.
+
 Les deux seuls fichiers dans lesquels vous travaillez
 - defi.scss
 - index.html
 
-## COULEURS (variables créées dans defi.scss)
+## COULEURS (variables déjà créées dans defi.scss)
 - Arrière plan section ET texte:
   #212121
 
@@ -28,7 +29,7 @@ Les deux seuls fichiers dans lesquels vous travaillez
 - assets/images/matt-leblanc.jpg
 - assets/images/jeff-raymond.jpg
 
-### icônes
+### icônes (utilisez le snippet tim-icon)
 - headphones.svg
 - paint.svg
 - instagram.svg
