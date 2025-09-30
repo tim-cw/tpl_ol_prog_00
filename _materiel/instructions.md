@@ -18,8 +18,10 @@ Les deux seuls fichiers dans lesquels vous travaillez
 
 ## FONTES
 - famille: 'Poppins', sans-serif;
-- h1: 700 30px
-- h2: 700 18px
+- h1: 700 80px
+- h2: 700 30px
+- h3: 700 20px
+- titre professionnel: 700 14px
 - body: 400 16px
 
 
